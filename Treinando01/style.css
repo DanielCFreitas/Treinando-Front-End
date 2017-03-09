@@ -1,0 +1,105 @@
+/*Importacoes*/
+@import url('https://fonts.googleapis.com/css?family=Coming+Soon|Yellowtail');
+
+/*TOPO*/
+.div_top {	
+	background-color: #323232;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.div_logo {
+	padding-top: 15px;
+}
+
+.logo {
+	color: #ffffff;
+	font-family: 'Yellowtail', cursive;
+	font-size: 50px;
+}
+
+.div_menu{
+	padding-top: 40px;
+}
+
+ul {
+	list-style: none;
+	color: #ffffff;
+}
+
+li {
+	display: inline;
+	padding-right: 15px;
+	font-weight: 700;
+}
+
+/* HOME */
+a {
+	margin: 0px;
+	color: white;
+	font-weight: 600;
+	padding: 10px 20px;
+	background-color: orange;
+	box-shadow: 
+}
+
+a:hover{
+	text-decoration: none;
+	color: white;
+	box-shadow: 2px 2px 5px #888888;
+}
+
+img {
+	padding: 20px;
+}
+
+.div_home {	
+	background-color: #f0f0f0;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 3%;
+	padding-bottom: 5%;
+}
+
+/* SOBRE */
+.div_sobre{
+	padding-left: 10%;
+	padding-right: 10%;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+.img_sobre{
+	max-width: 300px;
+}
+
+.p_img{
+	padding-left: 20px;
+	padding-right: 40px;
+	margin-top: 20px;
+}
+
+.img_center{
+	text-align: center;
+}
+
+.a_link{
+	margin: 20px;
+}
+
+/* RODAPE */
+.div_botton{
+	background-color: #323232;
+	padding-left: 10%;
+	padding-right: 10%;
+	color: white;
+}
+
+.alinhar {
+	text-align: center;
+}
+
+.paragrafo_rodape{
+	font-family: 'Coming Soon', cursive;
+	font-weight: 700;
+}
