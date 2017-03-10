@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+body {
+	background-color: #fcfcfc;
+}
+
+p {
+	text-align: justify;
+}
+
+.font-logo-cima {
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+	font-weight: 700;
+	color: #575757;
+}
+
+.font-logo-baixo{
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;	
+	margin-top: -20px;
+	margin-left: 150px;
+	color: #27c6db;
+}
+
+.ul-menu {
+	margin-top: 20px;
+}
+
+.li-menu{
+	margin-left: 15px;
+	list-style: none;
+	display: inline;
+	margin-top: 20px;
+}
+
+.a-menu{
+	color: black;
+	padding: 5px 10px 5px 10px;
+	border-radius: 10px;
+}
+
+.a-menu:hover{
+	background-color: #27c6db;
+	color: white;
+	text-decoration: none;
+	padding: 5px 10px 5px 10px;
+	border-radius: 10px;
+}
+
+.div-img {
+	text-align: center;
+}
+
+.img-cima {
+	margin-top: 40px;
+	max-height: 340px;
+}
+
+.font-img-cima{
+	margin-top: 40px;
+	font-family: 'Indie Flower', cursive;
+	font-weight: 900;
+}
+
+.font-img-baixo{
+	margin-top: -20px;
+	font-family: 'Indie Flower', cursive;
+	font-size: 27px;
+	color: #27c6db;
+}
+
+.div-img-txt {
+	text-align: center;
+}
+
+.div-sobre-mim {
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+
+.img-sobre-mim {
+	max-height: 300px;
+}
+
+.div-img-sobre-mim{
+	text-align: center;
+}
+
+.div-txt-sobre-mim{
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 30px;
+	border-radius: 30px;
+	border-style: dashed;
+	border-width: 1px;
+}
+
+
+
+
+.test {
+	background-color: green;
+}
+
+.test2 {
+	background-color: orange;
+}
