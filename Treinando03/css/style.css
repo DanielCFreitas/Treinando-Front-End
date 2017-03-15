@@ -4,7 +4,7 @@ body {
 	background-color: #fcfcfc;
 }
 
-p {
+.paragrafo-justificado {
 	text-align: justify;
 }
 
@@ -75,8 +75,8 @@ p {
 }
 
 .div-sobre-mim {
-	margin-top: 150px;
-	margin-bottom: 150px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 .img-sobre-mim {
@@ -96,13 +96,36 @@ p {
 	border-width: 1px;
 }
 
-
-
-
-.test {
-	background-color: green;
+/*DIV FORMACAO*/
+.div-formacao{
+    margin-bottom: 100px;
 }
 
-.test2 {
-	background-color: orange;
+.div-formacao-cursos{
+    margin-top: 20px;
+}
+
+.div-formacao-individual {
+    padding: 5px;
+    text-align: center
+}
+
+.div-formacao-curso{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.img-cursos {
+    max-height: 200px;
+}
+
+.img-cursos:hover {
+    max-height: 200px;
+    opacity: 0.5;
+}
+
+/*DIV-GITHUB*/
+.div-img-github{
+    text-align: center;
+    margin-bottom: 100px;
 }
